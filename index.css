@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.awesome {
+    margin: 100px 0 36px;
+}
+.awesome-title {
+    font-size: 36px;
+    margin-bottom: 25px;
+    font-family: raleway;
+    font-weight: normal;
+}
+.underline {
+    border: 1px solid #E72424;
+    width: 64px;
+    margin: 0 auto 30px;
+    background-color: #E72424;
+}
+.awesome-text {
+    color: #86878B;
+    font-size: 14px;
+    font-family: 'Open Sans';
+}
+.why-awecome {
+    font-family: 'Open Sans';
+}
+.why-awecome {
+    font-size: 0;
+    padding-bottom: 108px;
+}
+.why-awecome-block{
+    font-size: 16px;
+    width: 350px;
+    display: inline-block;
+    padding: 0 5px;
+}
+.why-awesome-block-wrapper  {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #E72424;
+    border-radius: 50%;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.lampa {
+    background-image: url("./assets/icons/lampa.svg");
+}
+.keyboard {
+    background-image: url("./assets/icons/keyboard.svg");
+}
+.light {
+    background-image: url("./assets/icons/light.svg");
+}
+.why-awesome-block-title {
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+.design {
+    height: 324px;
+    background-image: url("./assets/icons/city.png");
+    z-index: -1;
+}
+.filtr {
+    height: 324px;
+    z-index: -1;
+    background: rgba(0, 0, 0, 0.65);
+}
+.design-title {
+    font-size: 36px;
+    padding: 76px 0 46px;
+    font-family: raleway;
+    font-weight: normal;
+    color: #FFFFFF;
+}
+.underline-2 {
+    border: 1px solid #FFFFFF;
+    width: 64px;
+    margin: 0 auto 30px;
+    background-color: #FFFFFF;
+}
+.design-text {
+    font-size: 16px;
+    font-family: 'Open Sans';
+    margin-bottom: 30px;
+    color:rgb(255, 255, 255, 0.8);
+    font-weight: normal;
+}
+.button {
+    width: 135px;
+    height: 42px;
+    border-radius: 0%;
+    background-color: transparent;
+    font-size: 15px;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    margin-bottom: 38px;
+    cursor:pointer;
+}
+.footer {
+    padding: 30px 0 15px;
+    background-color: black;
+}
+.fab, .fas {
+    height: 23px;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+    padding: 0 10px;
+}
+.author {
+    font-size: 12px;
+    font-family: 'Open Sans';
+    color: #FFFFFF;
+   
+}
